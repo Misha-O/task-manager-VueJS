@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Drink a cup of tea ! Or Milk",
+      "details": "Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum",
+      "complete": true,
+      "detais": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum"
+    },
+    {
+      "title": "Learn Vue Js",
+      "details": "Solidify knowledge on Vue Js and start Vuetify",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Go for a walk man",
+      "details": "And get some fresh air",
+      "complete": false,
+      "id": 4,
+      "detais": "And get some fresh air, buddy"
+    },
+    {
+      "title": "Bambaleo",
+      "details": "Chakarum ! Chakarum ! Chakarum ! Mnananamnaahnamanahnamanaha Chakarum ! Chakarum ! Chakarum rum rum !",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
